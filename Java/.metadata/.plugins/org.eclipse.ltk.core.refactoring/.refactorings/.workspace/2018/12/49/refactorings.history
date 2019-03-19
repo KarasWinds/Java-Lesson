@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;HomeWork7_MyCalendar&apos; to &apos;HomeWork7_IO&apos;&#x0D;&#x0A;- Original element: &apos;HomeWork7_MyCalendar&apos;&#x0D;&#x0A;- Renamed element: &apos;HomeWork7_MyCalendar&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;HomeWork7_MyCalendar&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=HomeWork7_MyCalendar" name="HomeWork7_IO" references="true" stamp="1543740047903" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Parmanent.java&apos; to &apos;Permanent.java&apos;&#x0D;&#x0A;- Original project: &apos;OOP&apos;&#x0D;&#x0A;- Original element: &apos;Parmanent.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Permanent.java&apos;" description="Rename compilation unit &apos;Parmanent.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Parmanent.java" name="Permanent.java" references="false" stamp="1541406631648" version="1.0"/>
+</session>
